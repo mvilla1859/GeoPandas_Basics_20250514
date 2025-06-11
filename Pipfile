@@ -11,6 +11,7 @@ geodatasets = "*"
 folium = "*"
 matplotlib = "*"
 mapclassify = "*"
+leafmap = "*"
 
 [dev-packages]
 
