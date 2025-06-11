@@ -8,6 +8,9 @@ pandas = "*"
 geopandas = "*"
 jupyterlab = "*"
 geodatasets = "*"
+folium = "*"
+matplotlib = "*"
+mapclassify = "*"
 
 [dev-packages]
 
