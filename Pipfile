@@ -12,6 +12,11 @@ folium = "*"
 matplotlib = "*"
 mapclassify = "*"
 leafmap = "*"
+palettable = "*"
+sidecar = "*"
+lombard = "*"
+ipyleaflet = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
