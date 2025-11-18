@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 pandas = "*"
 geopandas = "*"
-jupyterlab = "*"
 geodatasets = "*"
 folium = "*"
 matplotlib = "*"
@@ -17,6 +16,7 @@ sidecar = "*"
 lombard = "*"
 ipyleaflet = "*"
 ipywidgets = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
