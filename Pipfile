@@ -17,6 +17,7 @@ lombard = "*"
 ipyleaflet = "*"
 ipywidgets = "*"
 jupyterlab = "*"
+pyjanitor = "*"
 
 [dev-packages]
 
